@@ -4,7 +4,7 @@
 %                                                                   %
 % D. Huang, C.-D. Wang, J.-S. Wu, J.-H. Lai, and C.-K. Kwoh.        %
 % "Ultra-Scalable Spectral Clustering and Ensemble Clustering."     %
-% To appear in IEEE TKDE, 2019.                                     %
+% IEEE Transactions on Knowledge and Data Engineering, 2020.        %
 % DOI: https://doi.org/10.1109/TKDE.2019.2903410                    %
 %                                                                   %
 % The code has been tested in Matlab R2016a and Matlab R2016b.      %
