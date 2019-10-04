@@ -4,8 +4,11 @@ This repository provides the Matlab source code for the Ultra-Scalable Spectral 
 
 If you find this repository helpful for your research, please cite the paper below. 
 
-`
-D. Huang, C.-D. Wang, J.-S. Wu, J.-H. Lai, and C.-K. Kwoh, Ultra-Scalable Spectral Clustering and Ensemble Clustering, IEEE Transactions on Knowledge and Data Engineering (TKDE), in press, 2020. 
-`
+```
+Dong Huang, Chang-Dong Wang, Jian-Sheng Wu, Jianhuang Lai, and Chee-Keong Kwoh.
+Ultra-Scalable Spectral Clustering and Ensemble Clustering, 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), in press, 2020. 
+DOI: https://doi.org/10.1109/TKDE.2019.2903410
+```
 
 Please feel free to contact me if you have any questions regarding this work. (Email: huangdonghere at gmail dot com)
