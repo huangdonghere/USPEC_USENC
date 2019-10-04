@@ -11,4 +11,4 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE), in press, 2020.
 DOI: https://doi.org/10.1109/TKDE.2019.2903410
 ```
 
-Please feel free to contact me if you have any questions regarding this work. (Email: huangdonghere at gmail dot com)
+Don't hesitate to contact me if you have any questions regarding this work. (Email: huangdonghere at gmail dot com)
