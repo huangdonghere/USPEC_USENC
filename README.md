@@ -1,6 +1,6 @@
 # USPEC_USENC
 
-This repository provides the Matlab source code for the `Ultra-Scalable Spectral Clustering (U-SPEC)` and `Ultra-Scalable Ensemble Clustering (U-SENC)` algorithms, both of which have nearly linear time and space complexity and are capable of robustly and efficiently partitioning ten-million-level nonlinearly-separable datasets on a PC with 64GB memory.
+This repository provides the Matlab source code for two large-scale clustering algorithms, namely, `Ultra-Scalable Spectral Clustering (U-SPEC)` and `Ultra-Scalable Ensemble Clustering (U-SENC)`, both of which have nearly linear time and space complexity and are capable of robustly and efficiently partitioning ten-million-level nonlinearly-separable datasets on a PC with 64GB memory.
 
 If you find this repository helpful for your research, please cite the paper below. 
 
