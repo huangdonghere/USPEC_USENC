@@ -17,8 +17,6 @@ function demo_2_USENC()
 
 clear all;
 close all;
-clc;
-
 
 %% Load the data.
 % Please uncomment the dataset that you want to use and comment the other ones.
