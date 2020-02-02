@@ -30,8 +30,37 @@ DOI: https://doi.org/10.1109/TKDE.2019.2903410
 
 ### Data
 
-In this repository, we provide the files of the five real-world datasets, namely, PenDigits, USPS, Letters, MNIST, and Covertype. We also provide the MATLAB code (`synthesizeLargescaleDatasets.p`) to reproduce all of the five large-scale synthetic datasets used in our paper.
+In this repository, we provide the files of the five real-world datasets, namely, PenDigits, USPS, Letters, MNIST, and Covertype. We also provide the MATLAB code to reproduce all of the five large-scale synthetic datasets used in our paper.
 
-## Questions?
+#### How to Reproduce the Synthetic Datasets?
+
+- To generate the five large-scale synthetic datasets, you can call the `synthesizeLargescaleDatasets` function, which has just one input parameter. Note that this input parameter can be set to one of the five data names:
+
+	* 'TB1M' 
+	* 'SF2M' 
+	* 'CC5M' 
+	* 'CG10M' 
+	* 'Flower20M'
+  
+  Example (to synthesize the CC5M dataset):
+  
+  ```
+  synthesizeLargescaleDatasets('CC5M');
+  % The synthesized dataset will be saved in 'data_CC5M.mat'.
+  ```
+- To generate the five synthetic datasets with arbitrary sizes, you can call the `synthesizeLargescaleDatasets_withArbitrarySizes` function, which has two input parameters, that is
+	* dataName: can be one of the five names: 	'TB', 	'SF', 	'CC', 	'CG', 	'Flower'
+	* dataSize: can be set to any integers, provided that you have enough space to save the data.
+  
+  Example (to synthesize a CG dataset with one million points):
+  
+  ```
+  dataName = 'CG';
+  dataSize = 1000000;
+  synthesizeLargescaleDatasets_withArbitrarySizes(dataName, dataSize); 
+  % The synthesized dataset will be saved in 'data_CG_1000000.mat'.
+  ```
+
+## Further Questions?
 
 Don't hesitate to contact me if you have any questions regarding this work. (Email: huangdonghere at gmail dot com)
