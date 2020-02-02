@@ -25,7 +25,7 @@ DOI: https://doi.org/10.1109/TKDE.2019.2903410
 |`USENC.m` | Call this function to perform the U-SENC algorithm.|
 |`litekmeans.m`| A fast implementation of k-means. |
 |`computeNMI.m`| Call this function to compute the NMI score.|
-|`synthesizeLargescaleDatasets.p`| Call this function to produce the five large-scale synthetic datasets, whose sizes range from one million to twenty million. |
+|`synthesizeLargescaleDatasets.p`| Call this function to synthesize the five large-scale datasets, whose sizes range from one million to twenty million. |
 |`synthesizeLargescaleDatasets_withArbitrarySizes.p`| Produce the five synthetic datasets with arbitrary sizes.|
 
 ### Data
