@@ -30,7 +30,7 @@ DOI: https://doi.org/10.1109/TKDE.2019.2903410
 
 ### Data
 
-In this repository, we provide the files of the five real-world datasets, namely, PenDigits, USPS, Letters, MNIST, and Covertype. We also provide the MATLAB code to reproduce all of the five large-scale synthetic datasets used in our paper.
+In this repository, we provide the files of the five real-world datasets, namely, PenDigits, USPS, Letters, MNIST, and Covertype. We also provide the MATLAB code to reproduce the five large-scale synthetic datasets used in our paper.
 
 #### How to Reproduce the Synthetic Datasets?
 
