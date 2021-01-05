@@ -9,7 +9,7 @@ If you find this repository helpful for your research, please cite the paper bel
 ```
 Dong Huang, Chang-Dong Wang, Jian-Sheng Wu, Jianhuang Lai, and Chee-Keong Kwoh.
 Ultra-Scalable Spectral Clustering and Ensemble Clustering, 
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. 
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020, vol.32, no.6, pp.1212-1226. 
 DOI: https://doi.org/10.1109/TKDE.2019.2903410
 ```
 
